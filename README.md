@@ -271,4 +271,32 @@ Now, let us look at the features of the customers that actually agreed to open t
 - Customers who agreed to previous campaigns, are more likely to agree to the current one. This is a significant ratio and should be considered by the bank.
 - We have previously established that there is a strong correlation between EVR and Euribor. It was found that success ratio was much higher when EVR is negative and Euribor 3 month rate is less than 2.
 
+## Machine Learning
+
+Our goal here is to build a classification model that can correctly identify the potential customers who have a higher probability of saying yes to the marketing campaign which can help the bank optimize their resources. Counts of clients who said “yes” is 4639 and those who said “no” is 36537. So this is clearly an unbalanced distribution. 
+
+**Accuracy** measures how often the classifier makes the correct prediction. It’s the ratio of the number of correct predictions to the total number of predictions (the number of test data points).
+
+**Precision** is the measure of how reliable a positive classification is. A low precision is indicative of a large number of false positives.
+
+**Recall** is the ability of the classifier to find all the positive samples. A low recall is indicative of a large number of false negatives.
+
+In this scenario, we do not want to miss clients that will say "yes" to the campaign. There is no harm if a few less-interested clients are included in that list. Therefore, in this case we will focus more on recall and not on precision.
+
+We have tried several classification based machine learning models on this dataset -
+
+- Logistic Regression 
+- Logistic Regression (Random Oversampling)
+- Logistic Regression (Random Undersampling)
+- Logistic Regression (SMOTE)
+- Support Vector Classifier
+- Random Forest Classifier
+- Gradient Boosting Classifier
+- AdaBoost Classifier
+- K-Nearest Neigbors
+
+The final model that we have selected based on performance is the Logistic Regression Random Undersampling method.
+
+![](images/random_undersampling.png)
+
  
