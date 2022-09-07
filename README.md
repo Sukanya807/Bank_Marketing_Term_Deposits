@@ -49,4 +49,6 @@ There has been a revenue decline for the Portuguese bank and they would like to 
 #### Campaign Outcome
 
 ![](images/campaign_outcome.png)
+
+We can clearly see the problem here. Out of all the customers that were contacted for this campaign, only 11.3% agreed to open term deposits, while the vast majority of 88.7% declined the offer. A lot of effort was wasted on customers who do not fit in the potential buyer category. This problem requires solution so that company can target only the potential customers which have higher probability to buy that product instead of wasting efforts on the customers which have lower probability of buying that product.
  
