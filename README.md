@@ -259,4 +259,16 @@ Now, let us look at the features of the customers that actually agreed to open t
 
 - Chances of success are higher when euribor is less than 2.
 
+## Summary of Successful Campaign
+
+- Customers who are students or retired mostly agreed to open term deposits.
+- Customers who are less than 20 years old and customers more than 70 years old said agreed to open term deposits.
+- Single Customers are more likely to open term deposits.
+- Illiterate customers mostly agreed to the campaign.
+- Customers contacted in March, October, September and December mostly agreed to open term deposits.
+- Customers contacted on Tuesdays, Wednesdays and Thursdays agreed to the campaign.
+- As the no. of calls increased for the campaign, the success ratio decreased. Most of the successful customers received just one call for the campaign.
+- Customers who agreed to previous campaigns, are more likely to agree to the current one. This is a significant ratio and should be considered by the bank.
+- We have previously established that there is a strong correlation between EVR and Euribor. It was found that success ratio was much higher when EVR is negative and Euribor 3 month rate is less than 2.
+
  
