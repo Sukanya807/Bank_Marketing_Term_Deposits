@@ -299,4 +299,4 @@ The final model that we have selected based on performance is the Logistic Regre
 
 ![](images/random_undersampling.png)
 
- 
+ The Logistic Regression Random Undersampling method gives an accuracy score of 87%. The recall score for postive response or 1 is 0.88 which is significantly higher than all the other models. It means that this model is able to identify the high-potential customers 88% of the times.
