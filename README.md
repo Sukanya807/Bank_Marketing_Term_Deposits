@@ -141,4 +141,34 @@ Let us first dive into the details of the customers that were contacted for this
 ![](images/previous_target.png)
 
 - Majority of the customers were contacted for the first time.
+
+#### EVR (Employment Variation Rate)
+
+![](images/EVR.png)
+
+- Majority of the calls were made when the EVR was more than -0.2.
+
+#### Euribor (3 month rate)
+
+![](images/euribor.png)
+
+## Summary of Target Customers
+
+- 98% of the targeted customers fall between an age range of 20 and 65. Customers between age range of 31-50 years were most heavily targeted for the campaign.
+- Majority of the targeted customers have admin, blue-collar or technician type jobs.
+- Majority of the targeted customers are married.
+- Majority of the targeted customers have University degrees.
+- Majority of the targeted customers have no default history.
+- Majority of the targeted customers do have current housing loans.
+- Majority of the targeted customers do not have any personal loans.
+- Majority of the targeted customers were targeted on cellular phones.
+- Majority of the targeted customers were contacted in the month of May.
+- The customers were mainly contacted on Mondays and Thursdays.
+- The campaign call durations were between 50 and 800 seconds.
+- Majority of the customers were contacted for the first time for the current campaign.
+- Some customers were called multiple times during this campaign.
+- For the previous campaign, only 3.3% were successful, 10.3% failed and the rest was non-existent.
+- Majority of the calls were made when the EVR was more than -0.2.
+-  Majority of the calls were made when Euribor is greater than 3.5
+
  
