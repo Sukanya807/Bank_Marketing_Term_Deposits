@@ -152,6 +152,12 @@ Let us first dive into the details of the customers that were contacted for this
 
 ![](images/euribor.png)
 
+## Correlation between EVR, Euribor and Number of Employees
+
+![](images/corr_EVR_euribor_emp.png)
+
+- There is a strong positive correlation between EVR, Euribor and Number of Employees. Particularly, EVR is always negative when Euribor is less than 3.
+
 ## Summary of Target Customers
 
 - 98% of the targeted customers fall between an age range of 20 and 65. Customers between age range of 31-50 years were most heavily targeted for the campaign.
@@ -170,5 +176,87 @@ Let us first dive into the details of the customers that were contacted for this
 - For the previous campaign, only 3.3% were successful, 10.3% failed and the rest was non-existent.
 - Majority of the calls were made when the EVR was more than -0.2.
 -  Majority of the calls were made when Euribor is greater than 3.5
+
+## Successful Campaign
+
+Now, let us look at the features of the customers that actually agreed to open the term deposits.
+
+#### Successful Customer Job
+
+![](images/job_success.png)
+
+- Majority of the customers who agreed to open term deposits are students or retired individuals.
+
+#### Successful Customer Marital Status
+
+![](images/marital_success.png)
+
+- Majority of the successful customers are single.
+
+#### Successful Customer Age Bracket
+
+![](images/age_success.png)
+
+- Customers who agreed to open term deposits are either less than 20 years old or more than 70 years old.
+
+#### Successful Customer Education
+
+![](images/education_success.png)
+
+- Majority of the successful customers are actually illeterate.
+
+#### Successful Customer Default Status
+
+![](images/default_success.png)
+
+- The successful customers have either no default history or an unknown default status.
+
+#### Successful Customer Housing Loan
+
+![](images/housingloan_success.png)
+
+- The successful customers' housing loan status does not seem to have much impact on their decision.
+
+#### Successful Customer Personal Loan
+
+![](images/personalloan_success.png)
+
+- The successful customers' personal loan status does not seem to have much impact on their decision.
+
+#### Successful Customer Contact Month
+
+![](images/month_success.png)
+
+- Majoriy of the successful customers were contacted in March, September, October and December.
+
+#### Successful Customer Contact Weekday
+
+![](images/weekday_success.png)
+
+- Majority of the successful customers were contacted on Tuesdays and Thursdays.
+
+#### Successful Customer Campaign Bracket
+
+![](images/campaignbracket_success.png)
+
+- Majority of the successful customers were contacted only once for the campaign or less than 5 times. As the number of contacts increase, the probability of saying yes to the campaign decreases.
+
+#### Previous Campaign Outcome
+
+![](images/prevcampaign_success.png)
+
+- Customers who said yes to previous campaigns have significantly higher chances of saying yes to this campaign.
+
+#### EVR 
+
+![](images/EVR_success.png)
+
+- Chances of success are higher when EVR is negative.
+
+#### Euribor
+
+![](images/euribor_less_2.png)
+
+- Chances of success are higher when euribor is less than 2.
 
  
