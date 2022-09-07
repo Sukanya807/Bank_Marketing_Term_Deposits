@@ -43,4 +43,10 @@ There has been a revenue decline for the Portuguese bank and they would like to 
  19. euribor3m: euribor 3 month rate - daily indicator (numeric)
  20. nr.employed: number of employees - quarterly indicator (numeric)
  21. y - has the client subscribed a term deposit? (binary: 'yes','no') **Target Feature**
- 22. 
+
+## Data Exploration and Visualization
+
+#### Campaign Outcome
+
+![](images/campaign_outcome.png)
+ 
