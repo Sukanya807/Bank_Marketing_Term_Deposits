@@ -10,4 +10,4 @@ There has been a revenue decline for the Portuguese bank and they would like to 
 
 ## Dataset
 
-- Available on [Kaggle] (https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing)
+- Available on [Kaggle](https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing)
