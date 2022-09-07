@@ -97,4 +97,48 @@ Let us first dive into the details of the customers that were contacted for this
 ![](images/communication_target.png)
 
 - Majority of the targeted customers were contacted on their cellular devices.
+
+#### Target Customer Contact Month
+
+![](images/month_target.png)
+
+- The targeted customers were mostly contacted in the month of May.
+
+#### Target Customer Contact Weekday
+
+![](images/weekday_target.png)
+
+- The targeted customers were mostly contacted on Mondays and Thursdays
+
+#### Outcome of the previous campaign
+
+![](images/prev_campaign_outcome.png)
+
+- 3.3 % of the previous campaign was successful.
+
+#### Target Customer Age Group
+
+![](images/age_group_target.png)
+
+- Mostly young customers within the age range of 31- 50 years were targeted for the campaign.
+
+### Contact History
+
+#### Call Duration
+
+![](images/duration_histogram.png)
+
+- The campaign call durations were between 50 and 800 seconds.
+
+#### No. of times contacted during campaign
+
+![](images/campaign_histogram.png)
+
+- Many customers were contacted multiple times.
+
+#### No. of days passed since last contact
+
+![](images/previous_target.png)
+
+- Majority of the customers were contacted for the first time.
  
