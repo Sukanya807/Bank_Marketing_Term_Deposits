@@ -300,3 +300,16 @@ The final model that we have selected based on performance is the Logistic Regre
 ![](images/random_undersampling.png)
 
  The Logistic Regression Random Undersampling method gives an accuracy score of 87%. The recall score for postive response or 1 is 0.88 which is significantly higher than all the other models. It means that this model is able to identify the high-potential customers 88% of the times.
+ 
+ #### Feature Importance
+ 
+ ![](images/feature_importance.png)
+ 
+ ## Reccomendations
+ 
+ 1. The call duration is an important factor. Longer call durations indicate higher probability of customer saying yes to the campaign.
+ 2. More customers should be contacted in March, September, October and December.
+ 3. Customers who said yes to previous campaigns have significantly higher chances of saying yes to the current campaign.
+ 4. More calls should be made when euribor rate is less than 2 and EVR is negative.
+ 5. Banks should target customers who are above 70 years old.
+ 6. Single, retired and illeterate customers should be targeted more.
